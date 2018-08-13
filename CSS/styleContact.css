@@ -1,0 +1,47 @@
+body, html {
+    background-color: #white;
+}
+
+h1{
+    padding-top: 50px;
+    font-family: Cambria, Georgia, serif;
+    color: white;
+    font-size: 25px;
+    margin:200px 0px 0px 150px;
+}
+p{
+    font-family: Cambria, Georgia, serif;
+    color: white;
+         margin: 20px 0px 0px 300px;
+}
+
+.vl {
+    border-left: 2px solid #d9ead3;
+    position: absolute;
+}
+
+#leftl{
+    left: 30vw;
+    height: 100vh;
+    margin: -215px 0px 0px -155px;
+}
+
+#email{
+     margin: 100px 0px 0px 300px;
+}
+
+#base{
+    background-color: #434343ff;
+    width: 1300px;
+    height: 500px;
+    margin: -100px 0px 0px 0px;
+}
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+
+  border-right: 900px solid transparent;
+  
+  border-bottom: 100px solid #d9ead3;
+}
